@@ -1,18 +1,15 @@
 <img width="200" align="right" src="https://user-images.githubusercontent.com/63135773/184524716-ae71737d-7631-4a93-bcdb-cf1fa13bab30.png" />
 
-## Hi I'm Shakil Ahmad
+## Hi! Chethan Raj
 - [x] Full Stack Web Developer
 - [x] Problem Solver
-- [x] Fitness Enthusiast
-- [x] Night Owl
-- [x] Addicted to Tea ☕    
+- [x] Fitness Enthusiast  
 
 
 
-<h2>About Me 😊</h2>
+<h2>About Me</h2>
     <div>
-    <p>Hi I am Shakil Ahmad, I am from Deoghar, Jharkhand. A mechanical engineer turned Software Developer.</p>
-    <p> I am a good team-player, passionate about developing and implementing complex architechture. I am looking for a  challenging and dynamic role in a start-up environment. </p>
+    <p></p>
     </div>
 <h2>🌐 Socials:</h2>
 <a href="https://www.linkedin.com/in/chethan-raj-b351915a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>

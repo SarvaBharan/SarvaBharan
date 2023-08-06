@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm good at what I do!
+# I'm good at what I do!
 
 
 ## 🌐 Socials:

@@ -1,8 +1,6 @@
 # About Me: 
 I'm good at what I do! 💫
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-raj-b351915a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Chethan_Raj) 
 
 # 💻 Tech Stack:
